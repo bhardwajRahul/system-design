@@ -315,7 +315,7 @@
 
 
 #### W interview
-- [Design WhatsApp](https://newsletter.systemdesign.one/p/whatsapp-system-design)
+- [Design WhatsApp](https://newsletter.systemdesign.one/p/whatsapp-system-design), [Part 2](https://newsletter.systemdesign.one/p/design-a-chat-system)
 
 ---
 
