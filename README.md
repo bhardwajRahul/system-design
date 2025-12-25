@@ -270,6 +270,7 @@
 - [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
 - [How Shopify Handled 30TB per Minute With a Modular Monolith Architecture](https://newsletter.systemdesign.one/p/modular-monolith)
 - [1 Simple Technique to Scale Microservices Architecture](https://newsletter.systemdesign.one/p/how-to-scale-microservices)
+- [MCP - A Deep Dive](https://newsletter.systemdesign.one/p/how-mcp-works)
 
 #### N technologies
 
