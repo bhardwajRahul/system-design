@@ -208,6 +208,7 @@
 - [Best Practices for API Design](https://newsletter.systemdesign.one/p/best-practices-for-api-design)
 - [Best Practices for API Security](https://newsletter.systemdesign.one/p/api-security-best-practices)
 - [API Versioning](https://newsletter.systemdesign.one/p/api-versioning)
+- [How AI Agents Work](https://newsletter.systemdesign.one/p/ai-agents-explained)
 
 #### B technologies
 
