@@ -169,6 +169,7 @@
 
 - [How Uber Computes ETA at Half a Million Requests per Second](https://newsletter.systemdesign.one/p/uber-eta)
 - [How Uber Finds Nearby Drivers at 1 Million Requests per Second](https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers)
+- [How Uber Payment System Handles 30 Million Transactions Per Day](https://newsletter.systemdesign.one/p/payment-system-design)
 
 #### W companies
 
