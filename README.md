@@ -229,6 +229,7 @@
 - [What is Context Engineering?](https://newsletter.systemdesign.one/p/what-is-context-engineering)
 - [Cybersecurity Terms Every Software Engineer Must Know](https://newsletter.systemdesign.one/p/cybersecurity-fundamentals)
 - [The Entire Computer Science Stack, Explained In 51 Images](https://newsletter.systemdesign.one/p/computer-science-101)
+- [How ChatGPT Apps Work](https://newsletter.systemdesign.one/p/apps-in-chatgpt)
 
 
 #### D technologies
