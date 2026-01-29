@@ -35,7 +35,7 @@
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [](#-interview)  | [A](#a-interview)  | [](#b-interview)  | [](#c-interview)  | [](#d-interview)  | [](#e-interview)  | [](#f-interview)  | [](#g-interview)  | [](#h-interview)  |
 | [](#i-interview)  | [](#j-interview)  | [](#k-interview)  | [](#l-interview)  | [](#m-interview)  | [](#n-interview)  | [](#o-interview)  | [](#p-interview)  | [](#q-interview)  |
-| [](#r-interview)  | [S](#s-interview)  | [T](#t-interview)  | [](#u-interview)  | [](#v-interview)  | [W](#w-interview)  | [](#x-interview)  | [](#y-interview)  | [](#z-interview) |
+| [](#r-interview)  | [S](#s-interview)  | [T](#t-interview)  | [](#u-interview)  | [](#v-interview)  | [W](#w-interview)  | [](#x-interview)  | [Y](#y-interview)  | [](#z-interview) |
 
 
 
@@ -319,13 +319,14 @@
 #### S interview
 - [System Design Interview: Design Spotify](https://newsletter.systemdesign.one/p/spotify-system-design)
 
-
 #### T interview
 - [Design Twitter/X Timeline - A Frontend Deep Dive](https://newsletter.systemdesign.one/p/system-design-interview-twitter)
 
-
 #### W interview
 - [Design WhatsApp](https://newsletter.systemdesign.one/p/whatsapp-system-design), [Part 2](https://newsletter.systemdesign.one/p/design-a-chat-system)
+
+#### Y interview
+- [Design YouTube](https://newsletter.systemdesign.one/p/youtube-system-design)
 
 ---
 
