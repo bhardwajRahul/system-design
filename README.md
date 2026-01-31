@@ -276,6 +276,7 @@
 - [How Shopify Handled 30TB per Minute With a Modular Monolith Architecture](https://newsletter.systemdesign.one/p/modular-monolith)
 - [1 Simple Technique to Scale Microservices Architecture](https://newsletter.systemdesign.one/p/how-to-scale-microservices)
 - [MCP - A Deep Dive](https://newsletter.systemdesign.one/p/how-mcp-works)
+- [How Message Queues Work](https://newsletter.systemdesign.one/p/what-is-a-message-queue)
 
 #### N technologies
 
