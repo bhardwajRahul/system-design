@@ -33,7 +33,7 @@
 
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [](#-interview)  | [A](#a-interview)  | [](#b-interview)  | [](#c-interview)  | [](#d-interview)  | [](#e-interview)  | [](#f-interview)  | [](#g-interview)  | [](#h-interview)  |
+| [#](#-interview)  | [A](#a-interview)  | [](#b-interview)  | [](#c-interview)  | [](#d-interview)  | [](#e-interview)  | [](#f-interview)  | [](#g-interview)  | [](#h-interview)  |
 | [](#i-interview)  | [](#j-interview)  | [](#k-interview)  | [](#l-interview)  | [](#m-interview)  | [](#n-interview)  | [](#o-interview)  | [](#p-interview)  | [](#q-interview)  |
 | [](#r-interview)  | [S](#s-interview)  | [T](#t-interview)  | [](#u-interview)  | [](#v-interview)  | [W](#w-interview)  | [](#x-interview)  | [Y](#y-interview)  | [](#z-interview) |
 
@@ -315,6 +315,10 @@
 ---
 
 ## System Design Interview
+
+#### \# interviews
+
+- [Behavioral Interview Playbook](https://newsletter.systemdesign.one/p/common-behavioral-interview-questions)
 
 #### A interview
 - [System Design Interview: Design Airbnb](https://newsletter.systemdesign.one/p/airbnb-system-design)
