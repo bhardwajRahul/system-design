@@ -203,6 +203,7 @@
 - [114 System Design Concepts - Part 1](https://newsletter.systemdesign.one/p/system-design-concepts)
 - [114 System Design Concepts - Part 2](https://newsletter.systemdesign.one/p/system-design-core-concepts)
 - [AI Coding Workflow](https://newsletter.systemdesign.one/p/ai-coding-workflow)
+- [How Timsort Algorithm Works](https://newsletter.systemdesign.one/p/timsort-algorithm)
 
 #### A technologies
 
