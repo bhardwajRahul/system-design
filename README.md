@@ -327,6 +327,7 @@
 
 #### S interview
 - [System Design Interview: Design Spotify](https://newsletter.systemdesign.one/p/spotify-system-design)
+- [System Design Interview: Design Web Crawler and Search Engine](https://newsletter.systemdesign.one/p/web-crawler-system-design)
 
 #### T interview
 - [Design Twitter/X Timeline - A Frontend Deep Dive](https://newsletter.systemdesign.one/p/system-design-interview-twitter)
