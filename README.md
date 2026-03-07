@@ -204,6 +204,7 @@
 - [114 System Design Concepts - Part 2](https://newsletter.systemdesign.one/p/system-design-core-concepts)
 - [AI Coding Workflow](https://newsletter.systemdesign.one/p/ai-coding-workflow)
 - [How Timsort Algorithm Works](https://newsletter.systemdesign.one/p/timsort-algorithm)
+- [System Design Interview Framework](https://newsletter.systemdesign.one/p/how-to-prepare-for-system-design-interview)
 
 #### A technologies
 
