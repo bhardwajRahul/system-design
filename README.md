@@ -201,7 +201,7 @@
 - [Amazon Frugal Architecture Explained](https://newsletter.systemdesign.one/p/frugal-architecture)
 - [11 System Design Concepts Explained, Simply](https://newsletter.systemdesign.one/p/11-system-design-concepts-explained)
 - [114 System Design Concepts - Part 1](https://newsletter.systemdesign.one/p/system-design-concepts)
-- [114 System Design Concepts - Part 2](https://newsletter.systemdesi)gn.one/p/system-design-core-concepts)
+- [114 System Design Concepts - Part 2](https://newsletter.systemdesign.one/p/system-design-core-concepts)
 - [114 System Design Concepts - Part 3](https://newsletter.systemdesign.one/p/system-design-fundamentals)
 - [AI Coding Workflow](https://newsletter.systemdesign.one/p/ai-coding-workflow)
 - [How Timsort Algorithm Works](https://newsletter.systemdesign.one/p/timsort-algorithm)
