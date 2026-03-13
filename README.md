@@ -42,9 +42,9 @@
 
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](#-ai)  | [](#a-ai)  | [](#b-ai)  | [](#c-ai)  | [](#d-ai)  | [](#e-ai)  | [](#f-ai)  | [](#g-ai)  | [](#h-ai)  |
+| [#](#-ai)  | [](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [](#d-ai)  | [](#e-ai)  | [](#f-ai)  | [](#g-ai)  | [](#h-ai)  |
 | [](#i-ai)  | [](#j-ai)  | [](#k-ai)  | [L](#l-ai)  | [](#m-ai)  | [](#n-ai)  | [](#o-ai)  | [](#p-ai)  | [](#q-ai)  |
-| [](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [](#v-ai)  | [W](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
+| [](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [](#v-ai)  | [](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
 
 
 #### [Software White Papers](#Software-White-Papers-1)
@@ -240,8 +240,6 @@
 - [Consistent Hashing](https://systemdesign.one/consistent-hashing-explained/)
 - [Concurrency Is Not Parallelism](https://newsletter.systemdesign.one/p/concurrency-is-not-parallelism)
 - [15 Pitfalls That Break Cloud Systems](https://newsletter.systemdesign.one/p/cloud-system-design)
-- [What is Context Engineering?](https://newsletter.systemdesign.one/p/what-is-context-engineering)
-- [Context Engineering vs Prompt Engineering](https://newsletter.systemdesign.one/p/context-engineering-vs-prompt-engineering)
 - [Cybersecurity Terms Every Software Engineer Must Know](https://newsletter.systemdesign.one/p/cybersecurity-fundamentals)
 - [The Entire Computer Science Stack, Explained In 51 Images](https://newsletter.systemdesign.one/p/computer-science-101)
 - [How ChatGPT Apps Work](https://newsletter.systemdesign.one/p/apps-in-chatgpt)
@@ -283,7 +281,6 @@
 #### L technologies
 
 - [How Load Balancing Algorithms Work](https://newsletter.systemdesign.one/p/load-balancing-algorithms)
-- [LLM Concepts, Simply Explained](https://newsletter.systemdesign.one/p/llm-concepts)
 
 #### M technologies
 
@@ -356,6 +353,11 @@
 ---
 
 ## AI Engineering
+
+#### C ai
+
+- [What is Context Engineering?](https://newsletter.systemdesign.one/p/what-is-context-engineering)
+- [Context Engineering vs Prompt Engineering](https://newsletter.systemdesign.one/p/context-engineering-vs-prompt-engineering)
 
 #### L ai
 
