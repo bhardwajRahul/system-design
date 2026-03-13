@@ -1,16 +1,3 @@
-<p>
-  <a href="https://newsletter.systemdesign.one/join"><img src="https://i.imgur.com/7pV1SWj.png" /> </a>
-</p>
-
-<p align="center">
-   👋
-   <a href="https://newsletter.systemdesign.one/join">
-     <b> Join Newsletter </b>
-   </a>
- </p>
-
----
-
 #### [System Design Case Study](#System-Design-Case-Study-1)
 
 |     |     |     |     |     |     |     |     |     |
