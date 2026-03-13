@@ -42,7 +42,7 @@
 
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](#-ai)  | [](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [](#d-ai)  | [](#e-ai)  | [](#f-ai)  | [](#g-ai)  | [](#h-ai)  |
+| [#](#-ai)  | [A](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [](#d-ai)  | [](#e-ai)  | [](#f-ai)  | [](#g-ai)  | [](#h-ai)  |
 | [](#i-ai)  | [](#j-ai)  | [](#k-ai)  | [L](#l-ai)  | [M](#m-ai)  | [](#n-ai)  | [](#o-ai)  | [](#p-ai)  | [](#q-ai)  |
 | [](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [](#v-ai)  | [](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
 
@@ -223,7 +223,6 @@
 - [Best Practices for API Design](https://newsletter.systemdesign.one/p/best-practices-for-api-design)
 - [Best Practices for API Security](https://newsletter.systemdesign.one/p/api-security-best-practices)
 - [API Versioning](https://newsletter.systemdesign.one/p/api-versioning)
-- [How AI Agents Work](https://newsletter.systemdesign.one/p/ai-agents-explained)
 
 #### B technologies
 
@@ -352,6 +351,10 @@
 ---
 
 ## AI Engineering
+
+#### A ai
+
+- [How AI Agents Work](https://newsletter.systemdesign.one/p/ai-agents-explained)
 
 #### C ai
 
