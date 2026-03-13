@@ -43,7 +43,7 @@
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-ai)  | [](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [](#d-ai)  | [](#e-ai)  | [](#f-ai)  | [](#g-ai)  | [](#h-ai)  |
-| [](#i-ai)  | [](#j-ai)  | [](#k-ai)  | [L](#l-ai)  | [](#m-ai)  | [](#n-ai)  | [](#o-ai)  | [](#p-ai)  | [](#q-ai)  |
+| [](#i-ai)  | [](#j-ai)  | [](#k-ai)  | [L](#l-ai)  | [M](#m-ai)  | [](#n-ai)  | [](#o-ai)  | [](#p-ai)  | [](#q-ai)  |
 | [](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [](#v-ai)  | [](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
 
 
@@ -288,7 +288,6 @@
 - [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
 - [How Shopify Handled 30TB per Minute With a Modular Monolith Architecture](https://newsletter.systemdesign.one/p/modular-monolith)
 - [1 Simple Technique to Scale Microservices Architecture](https://newsletter.systemdesign.one/p/how-to-scale-microservices)
-- [MCP - A Deep Dive](https://newsletter.systemdesign.one/p/how-mcp-works)
 - [How Message Queues Work](https://newsletter.systemdesign.one/p/what-is-a-message-queue)
 
 #### N technologies
@@ -362,6 +361,10 @@
 #### L ai
 
 - [LLM Concepts, Simply Explained](https://newsletter.systemdesign.one/p/llm-concepts)
+
+#### M ai
+
+- [MCP - A Deep Dive](https://newsletter.systemdesign.one/p/how-mcp-works)
 
 ---
 
