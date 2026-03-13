@@ -211,9 +211,8 @@
 - [114 System Design Concepts - Part 1](https://newsletter.systemdesign.one/p/system-design-concepts)
 - [114 System Design Concepts - Part 2](https://newsletter.systemdesign.one/p/system-design-core-concepts)
 - [114 System Design Concepts - Part 3](https://newsletter.systemdesign.one/p/system-design-fundamentals)
-- [AI Coding Workflow](https://newsletter.systemdesign.one/p/ai-coding-workflow)
 - [How Timsort Algorithm Works](https://newsletter.systemdesign.one/p/timsort-algorithm)
-- [System Design Interview Framework](https://newsletter.systemdesign.one/p/how-to-prepare-for-system-design-interview)
+
 
 #### A technologies
 
@@ -241,7 +240,6 @@
 - [15 Pitfalls That Break Cloud Systems](https://newsletter.systemdesign.one/p/cloud-system-design)
 - [Cybersecurity Terms Every Software Engineer Must Know](https://newsletter.systemdesign.one/p/cybersecurity-fundamentals)
 - [The Entire Computer Science Stack, Explained In 51 Images](https://newsletter.systemdesign.one/p/computer-science-101)
-- [How ChatGPT Apps Work](https://newsletter.systemdesign.one/p/apps-in-chatgpt)
 
 
 #### D technologies
@@ -327,6 +325,7 @@
 
 #### \# interviews
 
+- [System Design Interview Framework](https://newsletter.systemdesign.one/p/how-to-prepare-for-system-design-interview)
 - [Behavioral Interview Playbook](https://newsletter.systemdesign.one/p/common-behavioral-interview-questions)
 
 #### A interview
@@ -358,8 +357,10 @@
 
 #### C ai
 
+- [AI Coding Workflow](https://newsletter.systemdesign.one/p/ai-coding-workflow)
 - [What is Context Engineering?](https://newsletter.systemdesign.one/p/what-is-context-engineering)
 - [Context Engineering vs Prompt Engineering](https://newsletter.systemdesign.one/p/context-engineering-vs-prompt-engineering)
+- [How ChatGPT Apps Work](https://newsletter.systemdesign.one/p/apps-in-chatgpt)
 
 #### L ai
 
