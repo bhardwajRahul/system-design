@@ -45,7 +45,7 @@
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-ai)  | [A](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [](#d-ai)  | [](#e-ai)  | [](#f-ai)  | [](#g-ai)  | [](#h-ai)  |
 | [](#i-ai)  | [](#j-ai)  | [](#k-ai)  | [L](#l-ai)  | [M](#m-ai)  | [](#n-ai)  | [](#o-ai)  | [](#p-ai)  | [](#q-ai)  |
-| [](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [](#v-ai)  | [](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
+| [R](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [](#v-ai)  | [](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
 
 
 #### [Software White Papers](#Software-White-Papers-1)
@@ -370,6 +370,13 @@
 #### M ai
 
 - [MCP - A Deep Dive](https://newsletter.systemdesign.one/p/how-mcp-works)
+
+
+#### R ai
+
+- [What Is Reinforcement Learning](https://newsletter.systemdesign.one/p/what-is-reinforcement-learning)
+
+
 
 ---
 
