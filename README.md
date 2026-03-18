@@ -355,6 +355,7 @@
 #### A ai
 
 - [How AI Agents Work](https://newsletter.systemdesign.one/p/ai-agents-explained)
+- [How to design your own AI agent](https://newsletter.systemdesign.one/p/how-do-ai-agents-work)
 
 #### C ai
 
