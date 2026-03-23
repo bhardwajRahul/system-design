@@ -376,7 +376,7 @@
 #### R ai
 
 - [What Is Reinforcement Learning](https://newsletter.systemdesign.one/p/what-is-reinforcement-learning)
-
+- [How RAG Works](https://newsletter.systemdesign.one/p/how-rag-works)
 
 
 ---
