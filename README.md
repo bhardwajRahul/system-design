@@ -328,6 +328,7 @@
 
 - [System Design Interview Framework](https://newsletter.systemdesign.one/p/how-to-prepare-for-system-design-interview)
 - [Behavioral Interview Playbook](https://newsletter.systemdesign.one/p/common-behavioral-interview-questions)
+- [Mobile System Design Interview Framework](https://newsletter.systemdesign.one/p/mobile-system-design-interview)
 
 #### A interview
 - [System Design Interview: Design Airbnb](https://newsletter.systemdesign.one/p/airbnb-system-design)
