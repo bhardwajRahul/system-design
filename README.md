@@ -213,6 +213,7 @@
 - [114 System Design Concepts - Part 2](https://newsletter.systemdesign.one/p/system-design-core-concepts)
 - [114 System Design Concepts - Part 3](https://newsletter.systemdesign.one/p/system-design-fundamentals)
 - [How Timsort Algorithm Works](https://newsletter.systemdesign.one/p/timsort-algorithm)
+- [Mobile System Design Concepts - Part 1](https://newsletter.systemdesign.one/p/mobile-system-design)
 
 
 #### A technologies
