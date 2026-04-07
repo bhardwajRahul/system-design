@@ -43,7 +43,7 @@
 
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](#-ai)  | [A](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [](#d-ai)  | [](#e-ai)  | [](#f-ai)  | [](#g-ai)  | [](#h-ai)  |
+| [#](#-ai)  | [A](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [](#d-ai)  | [](#e-ai)  | [](#f-ai)  | [G](#g-ai)  | [](#h-ai)  |
 | [](#i-ai)  | [](#j-ai)  | [](#k-ai)  | [L](#l-ai)  | [M](#m-ai)  | [](#n-ai)  | [](#o-ai)  | [](#p-ai)  | [](#q-ai)  |
 | [R](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [](#v-ai)  | [](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
 
@@ -366,6 +366,10 @@
 - [What is Context Engineering?](https://newsletter.systemdesign.one/p/what-is-context-engineering)
 - [Context Engineering vs Prompt Engineering](https://newsletter.systemdesign.one/p/context-engineering-vs-prompt-engineering)
 - [How ChatGPT Apps Work](https://newsletter.systemdesign.one/p/apps-in-chatgpt)
+
+
+#### G ai
+- [Everything You Need to Know to Design GenAI Systems From Scratch](https://newsletter.systemdesign.one/p/generative-ai-system-design)
 
 #### L ai
 
