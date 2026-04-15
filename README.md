@@ -36,7 +36,7 @@
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-interview)  | [A](#a-interview)  | [](#b-interview)  | [C](#c-interview)  | [](#d-interview)  | [](#e-interview)  | [](#f-interview)  | [](#g-interview)  | [](#h-interview)  |
 | [](#i-interview)  | [](#j-interview)  | [](#k-interview)  | [](#l-interview)  | [](#m-interview)  | [](#n-interview)  | [](#o-interview)  | [](#p-interview)  | [](#q-interview)  |
-| [](#r-interview)  | [S](#s-interview)  | [T](#t-interview)  | [](#u-interview)  | [](#v-interview)  | [W](#w-interview)  | [](#x-interview)  | [Y](#y-interview)  | [](#z-interview) |
+| [R](#r-interview)  | [S](#s-interview)  | [T](#t-interview)  | [](#u-interview)  | [](#v-interview)  | [W](#w-interview)  | [](#x-interview)  | [Y](#y-interview)  | [](#z-interview) |
 
 
 #### [AI Engineering](#AI-Engineering-1)
@@ -336,6 +336,9 @@
 
 #### C interview
 - [System Design Interview: Design ChatGPT](https://newsletter.systemdesign.one/p/chatgpt-system-design)
+
+#### R interview
+- [Software Engineer Resume](https://newsletter.systemdesign.one/p/software-engineer-resume)
 
 #### S interview
 - [System Design Interview: Design Spotify](https://newsletter.systemdesign.one/p/spotify-system-design)
