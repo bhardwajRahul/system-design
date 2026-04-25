@@ -45,7 +45,7 @@
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-ai)  | [A](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [D](#d-ai)  | [](#e-ai)  | [](#f-ai)  | [G](#g-ai)  | [](#h-ai)  |
 | [](#i-ai)  | [](#j-ai)  | [](#k-ai)  | [L](#l-ai)  | [M](#m-ai)  | [](#n-ai)  | [](#o-ai)  | [](#p-ai)  | [](#q-ai)  |
-| [R](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [](#v-ai)  | [](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
+| [R](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [V](#v-ai)  | [](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
 
 
 #### [Software White Papers](#Software-White-Papers-1)
@@ -390,6 +390,10 @@
 
 - [What Is Reinforcement Learning](https://newsletter.systemdesign.one/p/what-is-reinforcement-learning)
 - [How RAG Works](https://newsletter.systemdesign.one/p/how-rag-works)
+
+#### V ai
+
+- [Vector Database - A Deep Dive](https://newsletter.systemdesign.one/p/what-is-a-vector-database)
 
 
 ---
