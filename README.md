@@ -43,7 +43,7 @@
 
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](#-ai)  | [A](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [D](#d-ai)  | [](#e-ai)  | [](#f-ai)  | [G](#g-ai)  | [](#h-ai)  |
+| [#](#-ai)  | [A](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [D](#d-ai)  | [E](#e-ai)  | [](#f-ai)  | [G](#g-ai)  | [](#h-ai)  |
 | [](#i-ai)  | [](#j-ai)  | [](#k-ai)  | [L](#l-ai)  | [M](#m-ai)  | [](#n-ai)  | [](#o-ai)  | [](#p-ai)  | [](#q-ai)  |
 | [R](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [V](#v-ai)  | [](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
 
@@ -373,6 +373,9 @@
 
 #### D ai
 - [Agentic Design Patterns](https://newsletter.systemdesign.one/p/agentic-design-patterns)
+
+#### E ai
+- [29 LLM Evaluation Concepts](https://newsletter.systemdesign.one/p/llm-evals)
 
 #### G ai
 - [Everything You Need to Know to Design GenAI Systems From Scratch](https://newsletter.systemdesign.one/p/generative-ai-system-design)
