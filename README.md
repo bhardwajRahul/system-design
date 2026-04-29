@@ -387,6 +387,7 @@
 #### M ai
 
 - [MCP - A Deep Dive](https://newsletter.systemdesign.one/p/how-mcp-works)
+- [Multi-Agent Architectures, Clearly Explained](https://newsletter.systemdesign.one/p/multi-agent-system)
 
 
 #### R ai
