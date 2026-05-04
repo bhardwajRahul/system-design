@@ -370,6 +370,7 @@
 - [What is Context Engineering?](https://newsletter.systemdesign.one/p/what-is-context-engineering)
 - [Context Engineering vs Prompt Engineering](https://newsletter.systemdesign.one/p/context-engineering-vs-prompt-engineering)
 - [How ChatGPT Apps Work](https://newsletter.systemdesign.one/p/apps-in-chatgpt)
+- [Design a personal AI chat assistant](https://newsletter.systemdesign.one/p/ai-chat-assistant)
 
 #### D ai
 - [Agentic Design Patterns](https://newsletter.systemdesign.one/p/agentic-design-patterns)
