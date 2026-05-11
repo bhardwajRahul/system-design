@@ -390,6 +390,7 @@
 
 - [MCP - A Deep Dive](https://newsletter.systemdesign.one/p/how-mcp-works)
 - [Multi-Agent Architectures, Clearly Explained](https://newsletter.systemdesign.one/p/multi-agent-system)
+- [How ML Systems Actually Work: From Data to Deployment](https://newsletter.systemdesign.one/p/machine-learning-system-design-interview)
 
 
 #### R ai
