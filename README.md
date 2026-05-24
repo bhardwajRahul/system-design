@@ -69,6 +69,7 @@
 - [Real-Time Live Comments](https://systemdesign.one/live-comment-system-design/)
 - [Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
 - [Real Time Presence Platform](https://systemdesign.one/real-time-presence-platform-system-design/)
+- [How Virtual Machines Work](https://newsletter.systemdesign.one/p/virtualization-architecture)
 
 #### A companies
 
