@@ -151,6 +151,7 @@
 
 - [How PayPal Was Able to Support a Billion Transactions per Day With Only 8 Virtual Machines](https://newsletter.systemdesign.one/p/actor-model)
 - [Pastebin](https://systemdesign.one/system-design-pastebin/)
+- [Designing a Payment Backend with Stripe Integration](https://newsletter.systemdesign.one/p/design-a-payment-system)
 
 #### Q companies
 
