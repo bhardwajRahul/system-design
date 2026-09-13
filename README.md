@@ -270,8 +270,6 @@ Agents can generate code. Getting it right for your system is the hard part. You
 - [The Entire Computer Science Stack, Explained In 51 Images](https://newsletter.systemdesign.one/p/computer-science-101)
 - [How CDN Works](https://newsletter.systemdesign.one/p/how-does-cdn-work)
 - [How CI/CD Works](https://newsletter.systemdesign.one/p/how-does-a-ci-cd-pipeline-work)
-- [Claude Code - Part 1](https://newsletter.systemdesign.one/p/claude-code-claude-md-best-practices)
-- [Claude Code - Part 2](https://newsletter.systemdesign.one/p/claude-code-mcp-vs-cli)
 
 
 #### D technologies
@@ -412,6 +410,8 @@ Agents can generate code. Getting it right for your system is the hard part. You
 - [How ChatGPT Apps Work](https://newsletter.systemdesign.one/p/apps-in-chatgpt)
 - [Design a personal AI chat assistant](https://newsletter.systemdesign.one/p/ai-chat-assistant)
 - [Claude Folder - A Deep Dive](https://newsletter.systemdesign.one/p/claude-folder)
+- [Claude Code - Part 1](https://newsletter.systemdesign.one/p/claude-code-claude-md-best-practices)
+- [Claude Code - Part 2](https://newsletter.systemdesign.one/p/claude-code-mcp-vs-cli)
 
 #### D ai
 - [Agentic Design Patterns](https://newsletter.systemdesign.one/p/agentic-design-patterns)
