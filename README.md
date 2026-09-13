@@ -271,6 +271,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 - [How CDN Works](https://newsletter.systemdesign.one/p/how-does-cdn-work)
 - [How CI/CD Works](https://newsletter.systemdesign.one/p/how-does-a-ci-cd-pipeline-work)
 - [Claude Code - Part 1](https://newsletter.systemdesign.one/p/claude-code-claude-md-best-practices)
+- [Claude Code - Part 2](https://newsletter.systemdesign.one/p/claude-code-mcp-vs-cli)
 
 
 #### D technologies
