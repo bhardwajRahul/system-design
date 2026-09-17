@@ -279,6 +279,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 - [Deployment Patterns](https://newsletter.systemdesign.one/p/deployment-patterns)
 - [Distributed Systems Deep Dive](https://newsletter.systemdesign.one/p/distributed-systems)
 - [How Docker Works](https://newsletter.systemdesign.one/p/how-do-docker-containers-work)
+- [16 Database Types](https://newsletter.systemdesign.one/p/types-of-databases-and-when-to-use-them)
 
 
 
