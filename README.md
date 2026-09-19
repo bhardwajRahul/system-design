@@ -420,6 +420,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 
 #### E ai
 - [29 LLM Evaluation Concepts](https://newsletter.systemdesign.one/p/llm-evals)
+- [AI Evals, Guardrails and Security](https://newsletter.systemdesign.one/p/llm-evaluation-and-guardrails)
 
 #### F ai
 - [How Fine Tuning Works](https://newsletter.systemdesign.one/p/llm-fine-tuning-guide-with-lora-and-qlora)
