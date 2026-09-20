@@ -413,6 +413,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 - [Claude Folder - A Deep Dive](https://newsletter.systemdesign.one/p/claude-folder)
 - [Claude Code - Part 1](https://newsletter.systemdesign.one/p/claude-code-claude-md-best-practices)
 - [Claude Code - Part 2](https://newsletter.systemdesign.one/p/claude-code-mcp-vs-cli)
+- [Claude Code - Part 3](https://newsletter.systemdesign.one/p/claude-code-subagents-vs-agent-teams)
 
 #### D ai
 - [Agentic Design Patterns](https://newsletter.systemdesign.one/p/agentic-design-patterns)
