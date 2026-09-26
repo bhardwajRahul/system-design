@@ -1,5 +1,7 @@
-<p>
-  <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-oct-7/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign"><img src="https://i.imgur.com/c3U2bOX.png" /> </a>
+<p align="center">
+  <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-oct-7/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">
+    <img src="https://raw.githubusercontent.com/systemdesign42/system-design-academy/main/Oct%207%20webinar%201584x396%20banner.png" alt="Oct 7 Webinar">
+  </a>
 </p>
 
 <p align="center">
