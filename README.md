@@ -1,16 +1,17 @@
 <p>
-  <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-sep-23/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign"><img src="https://i.imgur.com/c3U2bOX.png" /> </a>
+  <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-oct-7/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign"><img src="https://i.imgur.com/c3U2bOX.png" /> </a>
 </p>
 
 <p align="center">
-<a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-sep-23/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">[Webinar] How to stop babysitting your agents </a> (Sponsored by <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-sep-23/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">Unblocked</a>)
+<a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-oct-7/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">[Webinar] How to stop babysitting your agents </a> (Sponsored by <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-oct-7/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">Unblocked</a>)
 
-Agents can generate code. Getting it right for your system is the hard part. You end up wasting time and tokens in the back and forth. Join us for a FREE webinar on Sep 23 to see how to give agents exactly what they need the first time (includes live demo).
+Agents can generate code. Getting it right for your system is the hard part. You end up wasting time and tokens in the back and forth. Join us for a FREE webinar on Oct 7 to see how to give agents exactly what they need the first time (includes live demo).
+
 </p>
 
 <p align="center">
    👋
-   <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-sep-23/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">
+   <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-oct-7/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">
      <b> Register now </b>
    </a>
 </p>
