@@ -468,6 +468,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 - [What Is Reinforcement Learning](https://newsletter.systemdesign.one/p/what-is-reinforcement-learning)
 - [How RAG Works](https://newsletter.systemdesign.one/p/how-rag-works)
 - [How AI Research Agent Works](https://newsletter.systemdesign.one/p/how-to-build-an-ai-research-agent-with-mcp)
+- [How Realtime AI Agent Works](https://newsletter.systemdesign.one/p/event-driven-ai-agent-architecture)
 
 #### S ai  
 - [Spec driven development for AI agents](https://newsletter.systemdesign.one/p/spec-driven-development-ai-agents/)
