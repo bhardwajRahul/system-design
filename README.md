@@ -443,6 +443,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 #### L ai
 
 - [LLM Concepts, Simply Explained](https://newsletter.systemdesign.one/p/llm-concepts)
+- [LLM as a Judge](https://newsletter.systemdesign.one/p/how-to-build-llm-judge)
 
 #### M ai
 
